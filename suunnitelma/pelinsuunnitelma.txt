@@ -1,0 +1,21 @@
+Feed the fish- peli.
+
+Tekijä Nea R.
+
+Tietoja pelistä: 
+pelin nimi: Feed the fish
+Pelialusta: Windows
+Pelaajien lkm: 1
+
+Pelin tarina:
+Fisusi täytyy uida menemään vaarojentäyteisessä maailmassa ja oppia, minkä kokoisia kaloja voi syödä,
+ja minkä kokoisia tulee paeta hengen edestä.
+
+Pelin idea ja tavoitteet:
+Pelissä liikutaan kalalla (jatkuvasti liikkeessä olevassa?) ympäristössä. Vastaan tulee erikokoisia 
+kaloja, joista vain itseä pienemmät kelpaavat ravinnoksi.
+Jos törmää itseä suurempaan kalaan - tai uistimeen -, tulee syödyksi ja peli loppuu.
+Jokaisesta syödystä kalasta saa pisteen.
+
+(Kala voisi kasvaa pelin edetessä, ja uida nopeammin (>vaikeampi väistellä petokaloja ja uistimia)).
+(Kalalla voisi olla myös nälkämittari: jos ei saa tarpeeksi pian saalista, häviää pelin.)
